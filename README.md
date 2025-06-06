@@ -1,4 +1,10 @@
-# R-Project
+# Yelp User Data Analysis DSC 140
 
-This project focuses on analyzing user data from Yelp through R to gain experience with the libraries and analysis that can be done through R. It focuses on Correlation Matrices and Liner Regresssions.
-The paths for data sets need to be changed if it is wioshed to replicate this project.
+This project analyzes user data from the Yelp Academic Dataset using R, with a focus on practicing data visualization and statistical analysis techniques.
+
+Key tasks include:
+- Generating correlation matrices to explore relationships between user vote types
+- Performing linear regressions to study patterns in user engagement metrics
+- Applying k-means clustering on user activity data
+
+>  **Note:** To replicate this project, you must update the dataset paths in the script to match your local environment.
